@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="yantra_patterns",
-    version="1.0.1",
+    version="1.0.2",
     author="Ishan Oshada",
     author_email="ishan.kodithuwakku.offical@gmail.com",
     description="A package to generate yantras with Sinhala and English text.",
