@@ -8,7 +8,7 @@ setup(
     description="A package to generate yantras with Sinhala and English text.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ishanoshada/yantra_patterns",  # Replace with your actual GitHub repo
+    url="https://github.com/ishanoshada/yantra-patterns",  # Replace with your actual GitHub repo
     packages=find_packages(),
     include_package_data=True,
     package_data={
