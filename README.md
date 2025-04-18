@@ -39,3 +39,5 @@ english.protactive_yantra("english_yantra.png")
 - `Pillow`
 - `numpy`
 
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/yantrapatterns/count.svg)
